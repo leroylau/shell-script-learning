@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/zsh       #当脚本被设定为可执行时，将使用的解释器
 echo "Hello, world!"
 
 # 执行脚本的方法
